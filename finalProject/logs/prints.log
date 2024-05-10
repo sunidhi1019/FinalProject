@@ -1,0 +1,4 @@
+21:48:50.215 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcelltypebf95type
+21:48:50.228 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+21:48:50.250 [main] FATAL AutomationFinalProject.LoginTest - java.io.FileNotFoundException: C:\Users\sunchauh\eclipse-workspace\finalProject\src\main\java\data.properties (The system cannot find the file specified)
+21:48:50.252 [main] FATAL AutomationFinalProject.LoginTest - java.io.FileNotFoundException: C:\Users\sunchauh\eclipse-workspace\finalProject\src\main\java\data.properties (The system cannot find the file specified)
